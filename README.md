@@ -4,8 +4,11 @@ This project is a pre-designed chatbot template featuring a collection of humoro
 ### Key Features:
 #### 1. Static Responses: A curated library of funny and witty replies for predefined questions or interactions.
 #### 2.Customizable Content: Easily modify or expand the response library to match your desired tone and humor style.
-#### 3.Simple Integration: Plug-and-play design makes it easy to integrate into websites, apps, or other platforms. #### 4.Lightweight and Efficient: No AI backend ensures fast and predictable performance.
+#### 3.Simple Integration: Plug-and-play design makes it easy to integrate into websites, apps, or other platforms. 
+#### 4.Lightweight and Efficient: No AI backend ensures fast and predictable performance.
+
 ### Use Cases:
+
 Casual chat applications or games.
 Adding humor to customer-facing bots for entertainment.
 Social media bots designed for fun interactions.
